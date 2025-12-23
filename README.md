@@ -1,5 +1,5 @@
 # 💫 About Me:
-*Cloud & DevOps Engineer with experience in backend development, cloud architecture deployment, and automation. I focus on designing and implementing scalable, secure, and efficient cloud solutions while applying DevOps best practices to streamline delivery, improve reliability, and enhance system performance.  <br>Passionate about technology, innovation, and building well-structured systems that bring real value in production environments.<br>
+Cloud & DevOps Engineer with experience in backend development, cloud architecture deployment, and automation. I focus on designing and implementing scalable, secure, and efficient cloud solutions while applying DevOps best practices to streamline delivery, improve reliability, and enhance system performance.  <br>Passionate about technology, innovation, and building well-structured systems that bring real value in production environments.<br>
 
 
 ## 🌐 Socials:
